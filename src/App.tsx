@@ -17,11 +17,6 @@ function App(): React.JSX.Element {
 
   return (
     <AppNavigation/>
-    // <NavigationContainer>
-    //   <View>
-    //     <Text>Bebek awokawo</Text>
-    //   </View>
-    // </NavigationContainer>
   );
 }
 

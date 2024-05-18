@@ -38,7 +38,7 @@ export default function AppNavigation() {
                         tabBarLabel: 'Account',
                         tabBarIcon: ({ color, size }) => (
                     
-                            <MaterialCommunityIcons name="home" color={color} size={size} />
+                            <MaterialCommunityIcons name="account" color={color} size={size} />
                         ),
                     }}
                   />
@@ -50,7 +50,7 @@ export default function AppNavigation() {
                         tabBarLabel: 'Product',
                         tabBarIcon: ({ color, size }) => (
                     
-                            <MaterialCommunityIcons name="home" color={color} size={size} />
+                            <MaterialCommunityIcons name="archive" color={color} size={size} />
                         ),
                     }}
                   />

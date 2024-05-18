@@ -5,10 +5,10 @@ export default function Card() {
   return (
     <View style={styles.container}>
       <Image style={styles.gambar} source={
-        require("./../../assets/img/kari-shea-1SAnrIxw5OY-unsplash.jpg")
+        require("./../../assets/img/maul.jpg")
         } />
-      <Text style={styles.textProduct}>NEW MACBOOK PRO 2030</Text>
-      <Text style={styles.textPrice}>RP. 2.000.000</Text>
+      <Text style={styles.textProduct}>Maul</Text>
+      <Text style={styles.textPrice}>Jempol</Text>
       <Text style={styles.textLocation}>SIDOARJO</Text>
       <Button title="BELI" color="red" />
     </View>
